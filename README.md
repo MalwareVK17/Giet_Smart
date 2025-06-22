@@ -1,6 +1,5 @@
-# vinay
+# Giet Smart
 
-A new Flutter project.
 
 ## Getting Started
 
