@@ -5,16 +5,25 @@ The official all-in-one smart app for the students of Godavari Institute of Engi
 
 GIET Smart is designed to streamline the academic journey of students by providing easy access to attendance, results, circulars, and more, right at their fingertips.
 
-Key Features
-📊 Attendance Tracker: View your daily and subject-wise attendance.
-📈 Results Viewer: Access your internal and external exam results instantly.
-📢 College Circulars: Stay updated with the latest news and announcements from the college.
-🗓️ Academic Calendar: Keep track of important dates and events.
-👤 Profile Management: Manage your personal and academic information.
+Key Feat
+ Student ID card registration: To apply new ID card ,who are lost there Id card and also there is a virtual Id card.
+ 
+ Bus pass registration: To register new bus pass and apply bus pass & Its shows Virtual Card.
+ 
+ Certificate booking sloat: certificate booking sloat for students and notify them to recevice certificates
+ 
+ Events: Keep track of important dates and events.
+ 
+ Profile Management: Manage your personal and academic information.
+
 Tech Stack
+
 Frontend: Flutter
+
 Backend: (Specify your backend, e.g., Firebase, Node.js, etc.)
+
 Database: (Specify your database, e.g., Firestore, MongoDB, etc.)
+
 Contributing
 Contributions are welcome! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request.
 
@@ -30,12 +39,16 @@ GIET Smart is a modern, feature-rich mobile application built to enhance the aca
 This project was initiated to solve the challenge of accessing scattered academic information. Instead of navigating multiple portals, students can now use GIET Smart for a seamless and integrated experience.
 
 ✨ Key Features:
-Dashboard: A quick overview of your attendance, recent results, and new circulars.
-Attendance Management: Detailed, color-coded view of your attendance percentage by subject.
-Examination Results: Instantly view semester-wise internal and final exam results with grade points.
-Notifications: Real-time push notifications for new circulars, results, and important updates.
-College Updates: A dedicated section for all official circulars and news.
-Secure Authentication: Safe and secure login to protect your academic data.
+1. Student ID card registration: To apply new ID card ,who are lost there Id card and also there is a virtual Id card.
+ 
+2. Bus pass registration: To register new bus pass and apply bus pass & Its shows Virtual Card.
+ 
+3. Certificate booking sloat: certificate booking sloat for students and notify them to recevice certificates
+ 
+4. Events: Keep track of important dates and events.
+ 
+5. Profile Management: Manage your personal and academic information.
+
 🛠️ Built With
 This project is built using the latest technologies to ensure a robust and scalable application.
 
