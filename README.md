@@ -5,16 +5,17 @@ The official all-in-one smart app for the students of Godavari Institute of Engi
 
 GIET Smart is designed to streamline the academic journey of students by providing easy access to attendance, results, circulars, and more, right at their fingertips.
 
-Key Feat
- Student ID card registration: To apply new ID card ,who are lost there Id card and also there is a virtual Id card.
+Key Features
+
+ ->Student ID card registration: To apply new ID card ,who are lost there Id card and also there is a virtual Id card.
  
- Bus pass registration: To register new bus pass and apply bus pass & Its shows Virtual Card.
+ ->Bus pass registration: To register new bus pass and apply bus pass & Its shows Virtual Card.
  
- Certificate booking sloat: certificate booking sloat for students and notify them to recevice certificates
+ ->Certificate booking sloat: certificate booking sloat for students and notify them to recevice certificates
  
- Events: Keep track of important dates and events.
+ ->Events: Keep track of important dates and events.
  
- Profile Management: Manage your personal and academic information.
+ ->Profile Management: Manage your personal and academic information.
 
 Tech Stack
 
